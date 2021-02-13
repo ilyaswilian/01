@@ -1,5 +1,5 @@
 /*
-]=====> RAMLAN ID <=====[ ]=====> YT RAMLAN CHANNEL <=====[ ]=====> 085559240360 <=====[
+]=====> ILYAS ID <=====[ ]=====> CKPTW <=====[ ]=====> 0895704283153 <=====[
 */
 const {
    WAConnection,
@@ -55,15 +55,15 @@ cr = '*𝐁𝐀𝐁𝐘 𝐁𝐎𝐓𝐙 𝐕𝐄𝐑𝐈𝐅𝐈𝐄𝐃*'
 /*
 ]=====> SETTINGS <=====[
 */
-const ownerNumber = ["6285559240360@s.whatsapp.net","6285559240360@s.whatsapp.net"]
+const ownerNumber = ["62895704283153@s.whatsapp.net","62895704283153@s.whatsapp.net"]
 const botName = '𝐁𝐀𝐁𝐘 𝐁𝐎𝐓𝐙'
-const ownerName = '𝗥𝗮𝗺𝗹𝗮𝗻 𝗜𝗗'
+const ownerName = 'ILYAS WILIAN'
 const BarBarKey = 'IDxO1TFYnKADlX4pxcHa' // APIKEY DOWNLOAD FILE
 const VhtearKey = 'APIKEY' // YANG DI YOUTUBE
 const TobzKey = 'BotWeA' // JANGAN MAU ENAK DOANG
 const XteamKey = 'APIKEY' // APIKEY XTEAM BELI SENDIRI:V
 /*
-]=====> SC BY RAMLAN ID <=====[
+]=====> SC BY ILYAS ID <=====[
 */
 
 /*       
@@ -445,7 +445,7 @@ client.on('group-participants-update', async (anu) => {
 				}
 				
 /*
-]=====> LIMITED BY LANN ID <=====[
+]=====> LIMITED BY ILYAS ID <=====[
 */
            const isLimit = (sender) =>{ 
 		      let position = false
@@ -691,7 +691,7 @@ switch(command) {
 				var gh = body.slice(11)
 				var nin = gh.split("&")[0];
 				var ja = gh.split("&")[1];
-				if (args.length < 1) return reply(`「❗」Contoh : ${prefix}ninjalogo Ramlan & Gans`)
+				if (args.length < 1) return reply(`「❗」Contoh : ${prefix}ninjalogo ilyas & ckptw`)
 				reply(ind.wait())
 				buffer = await getBuffer(`https://api.xteam.xyz/textpro/ninjalogo?text=${nin}&text2=${ja}&APIKEY=${XteamKey}`)
 				client.sendMessage(from, buffer, image, {quoted: mek})
@@ -718,7 +718,7 @@ switch(command) {
 				var gh = body.slice(9)
 				var porn = gh.split("&")[0];
 				var hub = gh.split("&")[1];
-				if (args.length < 1) return reply(`「❗」Contoh : ${prefix}pornhub Ramlan & Hub`)
+				if (args.length < 1) return reply(`「❗」Contoh : ${prefix}asstaghfirullah tobat ya nanti`)
 				reply(ind.wait())
 				buffer = await getBuffer(`https://api.xteam.xyz/textpro/ph?text=${porn}&text2=${hub}&APIKEY=${XteamKey}`)
 				client.sendMessage(from, buffer, image, {quoted: mek})
@@ -732,7 +732,7 @@ switch(command) {
 					var gh = body.slice(12)
 					var gem = gh.split("&")[0];
 					var bok = gh.split("&")[1];
-					if (args.length < 1) return reply(`[❗] Contoh : ${prefix}gemboktext 11 01 2021 & Ramlan dan Nadia`)
+					if (args.length < 1) return reply(`[❗] Contoh : ${prefix}gemboktext 11 01 2021 & ilyasu dan F`)
 					reply(ind.wait())
 					buffer = await getBuffer(`https://api.vhtear.com/padlock?text1=${gem}&text2=${bok}&apikey=${VhtearKey}`)
 					client.sendMessage(from, buffer, image, {quoted: mek})
@@ -745,7 +745,7 @@ switch(command) {
 					var gh = body.slice(12)
 					var gli = gh.split("&")[0];
 					var tch = gh.split("&")[1];
-					if (args.length < 1) return reply(`[❗] Contoh : ${prefix}glitchtext Ramlan & Gans`)
+					if (args.length < 1) return reply(`[❗] Contoh : ${prefix}glitchtext asoh`)
 					reply(ind.wait())
 					buffer = await getBuffer(`https://api.xteam.xyz/textpro/glitch?text=${gli}&text2=${tch}&APIKEY=${XteamKey}`)
 					client.sendMessage(from, buffer, image, {quoted: mek})
@@ -826,7 +826,7 @@ switch(command) {
                 var gh = body.slice(12)
 					var quote = gh.split("&")[0];
 					var wm = gh.split("&")[1];
-					const pref = `yang mau dijadiin quote apaan, titit?\n\ncontoh : ${prefix}bikinquote aku bukan boneka & Kata Ramlan`
+					const pref = `yang mau dijadiin quote apaan, titit?\n\ncontoh : ${prefix}bikinquote aku bukan boneka & Kata dia`
 					if (args.length < 1) return reply(pref)
 					reply(ind.wait())
 					anu = await fetchJson(`https://terhambar.com/aw/qts/?kata=${quote}&author=${wm}&tipe=random`, {method: 'get'})
@@ -1759,7 +1759,7 @@ switch(command) {
 				case 'info':
 					me = client.user
 					uptime = process.uptime()
-					teks = `*➸ Nama bot* : ${me.name}\n*➸ OWNER* : 𝗥𝗮𝗺𝗹𝗮𝗻 𝗜𝗗\n*➸ AUTHOR* : ${ownerName}\n*➸ Nomor Bot* : @${me.jid.split('@')[0]}\n*➸ Prefix* : ${prefix}\n*➸ Total Block Contact* : ${blocked.length}\n*➸ The bot is active on* : ${kyun(uptime)}`
+					teks = `*➸ Nama bot* : ${me.name}\n*➸ OWNER* : ILYAS ID\n*➸ AUTHOR* : ${ownerName}\n*➸ Nomor Bot* : @${me.jid.split('@')[0]}\n*➸ Prefix* : ${prefix}\n*➸ Total Block Contact* : ${blocked.length}\n*➸ The bot is active on* : ${kyun(uptime)}`
 					buffer = await getBuffer(me.imgUrl)
 					client.sendMessage(from, buffer, image, {caption: teks, contextInfo:{mentionedJid: [me.jid]}})
 					break
