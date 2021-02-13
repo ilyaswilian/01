@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Ramlan
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm ilyas w
 <p align="center">
 <img src="https://raw.githubusercontent.com/A187ID/AR15BOT/main/aris/A187.jpg" width="230" height="230"/>
 </p>
@@ -7,10 +7,10 @@
 
 
 <p align="center">
-<a href="#"><img title="RAMLAN ID" src="https://img.shields.io/badge/RAMLAN-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="ILYAS WILIAN" src="https://img.shields.io/badge/ILYAS-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Ramlan666"><img title="Author" src="https://img.shields.io/badge/AUTHOR-RAMLAN-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Ramlan666"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ILYAS-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Ramlan666/babybot/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ramlan666?color=blue&style=flat-square"></a>
@@ -25,7 +25,7 @@
  
 </details>
 
-### 𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗥𝗔𝗠𝗟𝗔𝗡 𝗜𝗗
+### 𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 ILYAS 𝗜𝗗
 
 ### WARNING
 MAU RE-UPLOAD SCRIPT? KASIH NAMA/LINK CHANEL SAYA.... DILARANG UBAH INFO!!!
@@ -47,19 +47,19 @@ Siapin alat dan bahannya.
 ```
 
 ### CARA INSTALLNYA  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
-Script ini di modifikasi sama saya sendiri Ramlan.
+Script ini di modifikasi sama saya sendiri ILYAS WILIAN.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
-> git clone https://github.com/Ramlan666/babybot
-> cd babybot
+> git clone https://github.com/ilyaswilian/01
+> cd 01
 > bash install.sh
 > node index.js
 > Tinggal scan kode qr yeee...done
 ```
 
 
-Ket: Aktiv 24 jam
+Ket:tergantung koneksi internet
 
 ## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
 * [`Donasi Ramlan ID`](https://saweria.co/ramlangans)
@@ -69,7 +69,7 @@ Ket: Aktiv 24 jam
 
 * [`Youtube Admin`](https://youtube.com/c/RamlanChannel21)
 * [`Instagram Admin`](https://instagram.com/iamramlan_)
-* [`WhatsApp Admin `](https://wa.me/+6285559240360)
+* [`WhatsApp Admin `](https://wa.me/+62895704283153)
 * [`Group WhatsApp `](https://chat.whatsapp.com/Eb4niW86N3kHbMjgmdL4WU)
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
